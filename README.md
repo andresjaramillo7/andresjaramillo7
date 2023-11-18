@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @andresjaramillo7 and I'm studying B.S in Computer Science and Technology Engineering at Tecnológico de Monterrey - ITESM
-- 👀 I’m interested in Machine Learning
+- 👀 I’m interested in AI & Software Development
 - 🌱 I’m currently learning Web Development and Data Structures & Algorithms.
 - 📫 How to reach me you can find me in LinkedIn: www.linkedin.com/in/andres-jarab
 
